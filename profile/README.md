@@ -15,6 +15,7 @@ Para se manter informado sobre os eventos, entre no nosso grupo do WhatsApp!
 # Entre em Contato
 Acesse no site oficial do [Codingferpa](https://codingferpa.org/)
 
-Acesse nosso [Instagram](https://www.instagram.com/codingferpa/)
-
-ou nosso [Discord](https://discord.gg/uqyVCgYUTu)
+<p align="left">
+  <a href="https://discord.gg/uqyVCgYUTu" target="_blank"> <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/codingferpa/" target="_blank"> <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+</p>
